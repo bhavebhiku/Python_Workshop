@@ -120,3 +120,4 @@ if (ladybugs/trees) > 125:
     print ("OK")
 else:
     print ("NOT OK")
+print(added by Avinash)
